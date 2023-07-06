@@ -50,18 +50,24 @@ I am a Full Stack Developer 💻 and a Machine Learning Engineer 🧠
   <code><img title="NextJS" height="35" src="./icons/nextjs-original.svg"></code>
   <code><img title="React" height="35" src="./icons/react-original.svg"></code>
   &nbsp;
+  &nbsp;
   <code><img title="PostgreSQL" height="35" src="./icons/postgresql-original.svg"></code>
   <code><img title="Redis" height="35" src="./icons/redis-original.svg"></code>
   <code><img title="MongoDB" height="35" src="./icons/mongodb-original.svg"></code>
   &nbsp;
+  &nbsp;
   <code><img title="Spring" height="35" src="./icons/spring-original.svg"></code>
   <code><img title="Grails" height="35" src="./icons/grails-original.svg"></code>
+  &nbsp;
   &nbsp;
   <code><img title="kafka" height="35" src="./icons/apachekafka-original.svg"></code>
   <code><img title="Hadoop" height="35" src="./icons/hadoop-original.svg"></code>
   &nbsp;
+  &nbsp;
   <code><img title="AWS" height="35" src="./icons/amazonwebservices-original.svg"></code>
   <code><img title="Docker" height="35" src="./icons/docker-original.svg"></code>
+  <code><img title="Kubernetes" height="35" src="./icons/kubernetes-plain.svg"></code>
+  &nbsp;
   &nbsp;
   <code><img title="Git" height="35" src="./icons/github-original.svg"></code>
   <code><img title="Jenkins" height="35" src="./icons/jenkins-original.svg"></code>
