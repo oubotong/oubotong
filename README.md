@@ -40,7 +40,7 @@ I am a Full Stack Developer 💻 and a Machine Learning Engineer 🧠
   <code><img title="Golang" height="35" src="./icons/go-original.svg"></code>
   <code><img title="JavaScript" height="35" src="./icons/javascript-original.svg"></code>
   <code><img title="TypeScript" height="35" src="./icons/typescript-original.svg"></code>
-  <code><img title="Twilwind CSS" height="35" src="./icons/tailwindcss-plain.svg"></code>
+  <code><img title="Tailwind CSS" height="35" src="./icons/tailwindcss-plain.svg"></code>
 </p>
 <p>
   </br>
@@ -49,18 +49,28 @@ I am a Full Stack Developer 💻 and a Machine Learning Engineer 🧠
   <code><img title="Nginx" height="35" src="./icons/nginx-original.svg"></code>
   <code><img title="NextJS" height="35" src="./icons/nextjs-original.svg"></code>
   <code><img title="React" height="35" src="./icons/react-original.svg"></code>
+  &nbsp;
   <code><img title="PostgreSQL" height="35" src="./icons/postgresql-original.svg"></code>
   <code><img title="Redis" height="35" src="./icons/redis-original.svg"></code>
   <code><img title="MongoDB" height="35" src="./icons/mongodb-original.svg"></code>
+  &nbsp;
   <code><img title="Spring" height="35" src="./icons/spring-original.svg"></code>
   <code><img title="Grails" height="35" src="./icons/grails-original.svg"></code>
+  &nbsp;
   <code><img title="kafka" height="35" src="./icons/apachekafka-original.svg"></code>
   <code><img title="Hadoop" height="35" src="./icons/hadoop-original.svg"></code>
+  &nbsp;
   <code><img title="AWS" height="35" src="./icons/amazonwebservices-original.svg"></code>
   <code><img title="Docker" height="35" src="./icons/docker-original.svg"></code>
+  &nbsp;
   <code><img title="Git" height="35" src="./icons/github-original.svg"></code>
   <code><img title="Jenkins" height="35" src="./icons/jenkins-original.svg"></code>
+</p>
 
+<p>
+  </br>
+  <code><img title="PyTorch" height="35" src="./icons/pytorch-original.svg"></code>
+  <code><img title="Tensorflow" height="35" src="./icons/tensorflow-original.svg"></code>
 </p>
 
 
