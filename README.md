@@ -22,13 +22,13 @@
 
 ### About Me 🧙‍♂️: 
 
-I am a Full Stack Developer 💻 and a Machine Learning Engineer 🧠
+I am a Full Stack Developer 💻 and Machine Learning Enjoyer 🧠
 
 - 🔎 I like to explore and contribute to interesting projects.
 
 - 🛠️ I am recently building an AI assistant with customized knowledge and voice.
 
-- 🌴 In my spare time, I go hiking and and explore nature with my friends.
+- 🌴 In my spare time, I go hiking and explore nature with my friends.
 
 ---
 
