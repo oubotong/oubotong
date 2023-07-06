@@ -32,7 +32,7 @@ I am a Full Stack Developer 💻 and Machine Learning Enjoyer 🧠
 
 ---
 
-### 📦 Skills:
+### Skills 📦:
 <p>
   </br>
   <code><img title="Java" height="35" src="./icons/java-original.svg"></code>
