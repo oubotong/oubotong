@@ -68,14 +68,13 @@ I am a Full Stack Developer 💻 and a Machine Learning Engineer 🧠
   <code><img title="Docker" height="35" src="./icons/docker-original.svg"></code>
   <code><img title="Kubernetes" height="35" src="./icons/kubernetes-plain.svg"></code>
 </p> 
+
 <p>
   </br>
   <code><img title="Git" height="35" src="./icons/github-original.svg"></code>
   <code><img title="Jenkins" height="35" src="./icons/jenkins-original.svg"></code>
-</p>
-
-<p>
-  </br>
+  &nbsp;
+  &nbsp;
   <code><img title="PyTorch" height="35" src="./icons/pytorch-original.svg"></code>
   <code><img title="Tensorflow" height="35" src="./icons/tensorflow-original.svg"></code>
 </p>
