@@ -1,25 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=300&size=30&duration=3000&pause=1000&color=5EFBFF&center=true&vCenter=true&width=435&lines=Hi+!+Welcome%F0%9F%91%8B%F0%9F%8F%BB;Feel+free+to+check+around+%F0%9F%9A%B6;Here+is+a+joke+for+you+%F0%9F%98%9C;What%E2%80%99s+Thanos%E2%80%99+favorite+app+%3A;SNAPCHAT+!!!;Get+it+%3F+xD;Have+fun+%F0%9F%A5%82)](https://git.io/typing-svg)
+
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="100"/>
+
+  <a href="https://git.io/typing-svg"><img
+            src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=300&size=30&duration=3000&pause=1000&color=5EFBFF&center=true&vCenter=true&width=435&lines=Hi+!+Welcome%F0%9F%91%8B%F0%9F%8F%BB;Feel+free+to+check+around+%F0%9F%9A%B6;Here+is+a+joke+for+you+%F0%9F%98%9C;What%E2%80%99s+Thanos%E2%80%99+favorite+app+%3A;SNAPCHAT+!!!;Get+it+%3F+xD;Have+fun+%F0%9F%A5%82"
+            alt="Typing SVG" /></a>
+
+  <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="100"/><br>
   <div id="badges">
-  <a href="https://oubotong.github.io/johan/">
-    <img src="https://img.shields.io/badge/Portofolio-lightgreen?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-  </a>
-  <a href="http://www.linkedin.com/in/botong97">
-    <img src="https://img.shields.io/badge/Linkedin-lightblue?style=for-the-badge&logo=linkedin&logoColor=black" alt="Twitter Badge"/>
-  </a>
-  <a href="https://space.bilibili.com/16596867">
-    <img src="https://img.shields.io/badge/Bilibili-pink?style=for-the-badge&logo=bilibili&logoColor=black" alt="Bilibili Badge"/>
-  </a>
-</div>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+    <a href="https://oubotong.github.io/johan/">
+      <img src="https://img.shields.io/badge/Portofolio-lightgreen?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+    </a>
+    <a href="http://www.linkedin.com/in/botong97">
+      <img src="https://img.shields.io/badge/Linkedin-lightblue?style=for-the-badge&logo=linkedin&logoColor=black" alt="Linkedin Badge"/>
+    </a>
+    <a href="https://space.bilibili.com/16596867">
+      <img src="https://img.shields.io/badge/Bilibili-pink?style=for-the-badge&logo=bilibili&logoColor=black" alt="Bilibili Badge"/>
+    </a>
+  </div>
 </div>
 
-### 🧙‍♂️ About Me : 
+### About Me 🧙‍♂️: 
 
 I am a Full Stack Developer 💻 and a Machine Learning Engineer 🧠
 
