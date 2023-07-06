@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=300&size=30&duration=3000&pause=1000&color=5EFBFF&center=true&vCenter=true&width=435&lines=Hi+!+Welcome%F0%9F%91%8B%F0%9F%8F%BB;Feel+free+to+check+around+%F0%9F%9A%B6;Here+is+a+joke+for+you+%F0%9F%98%9C;What%E2%80%99s+Thanos%E2%80%99+favorite+app+%3A);SNAPCHAT+!!!;Get+it+%3F+xD;Have+fun+%F0%9F%A5%82)](https://git.io/typing-svg)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="100"/>
   <div id="badges">
