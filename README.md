@@ -61,8 +61,10 @@ I am a Full Stack Developer 💻 and Machine Learning Enjoyer 🧠
   &nbsp;
   <code><img title="Spring" height="35" src="./icons/spring-original.svg"></code>
   <code><img title="Grails" height="35" src="./icons/grails-original.svg"></code>
-  &nbsp;
-  &nbsp;
+</p> 
+
+<p>
+  </br>
   <code><img title="kafka" height="35" src="./icons/apachekafka-original.svg"></code>
   <code><img title="Hadoop" height="35" src="./icons/hadoop-original.svg"></code>
   &nbsp;
@@ -70,10 +72,8 @@ I am a Full Stack Developer 💻 and Machine Learning Enjoyer 🧠
   <code><img title="AWS" height="35" src="./icons/amazonwebservices-original.svg"></code>
   <code><img title="Docker" height="35" src="./icons/docker-original.svg"></code>
   <code><img title="Kubernetes" height="35" src="./icons/kubernetes-plain.svg"></code>
-</p> 
-
-<p>
-  </br>
+  &nbsp;
+  &nbsp;
   <code><img title="Git" height="35" src="./icons/github-original.svg"></code>
   <code><img title="Jenkins" height="35" src="./icons/jenkins-original.svg"></code>
   &nbsp;
